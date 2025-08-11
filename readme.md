@@ -1,9 +1,7 @@
 # Cloud Service Alternatives Report
 ## Azure vs AWS vs GCP Service Comparison
 
-**Course:** CST8919 – DevOps Security and Compliance  
-**Student:** [Your Name]  
-**Date:** [Current Date]  
+**Course:** CST8919 – DevOps Security and Compliance   
 
 ---
 
@@ -217,4 +215,3 @@ For DevSecOps implementation, AWS provides the most mature ecosystem, while Azur
 - [Google Cloud Security Documentation](https://cloud.google.com/security)
 - [Cloud Security Alliance](https://cloudsecurityalliance.org/)
 - [NIST Cloud Computing Security](https://www.nist.gov/programs-projects/cloud-computing-security)
-# CST8919-assignment2
